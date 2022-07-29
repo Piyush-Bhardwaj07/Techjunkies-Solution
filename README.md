@@ -1,0 +1,2 @@
+# Techjunkies-Solution
+Open source software is an integral part of every tech product.  There are amazing contributors who actively maintain their repositories. However, every coin has two sides. All OSS repositories may not be maintained properly, because of which, vulnerabilities may get introduced with time. Whereas, some OSS repos could be created by attackers themselves to trick the users.  We need an OSS inspector to solve this problem. This tool will help us to identify the genuineness of the repos and perform a security health check.

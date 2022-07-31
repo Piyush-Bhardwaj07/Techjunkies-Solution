@@ -49,9 +49,9 @@ pip install pillow
 
 ## Team Members
 - Piyush Bhardwaj
-    - LinkedIn : 
+    - LinkedIn : https://www.linkedin.com/in/piyush-bhardwaj-13995a1ab/
 - Gitesh Jetly 
-    - LinkedIn : 
+    - LinkedIn : https://www.linkedin.com/in/gitesh-jetly-185b2219b/
 - Sanskriti Anand
     - LinkedIn : 
 

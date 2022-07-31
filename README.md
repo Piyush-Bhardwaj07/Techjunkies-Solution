@@ -63,8 +63,10 @@ pip install pillow
 
 ## Limitations
 - Can detect Vulnerabilities in Python only
-- In URL Entry Box kindly enter valid GitHub Repo URLs
+- In URL Entry Box kindly enter valid GitHub Repo URL
 
+
+![main-page](https://user-images.githubusercontent.com/66312115/182013295-91f685c1-d305-4cd7-8d10-40a3b18ff701.jpg)
 
 ![Team-Members](https://user-images.githubusercontent.com/66312115/182013235-d22c3a48-56bf-458e-a1ad-9febad5b730b.jpg)
 
